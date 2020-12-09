@@ -8,7 +8,7 @@ The activator can be installed either through the docker package (recommended) o
 Both of these are available in the repository. For ease of installation, we recommend using the docker packages to install base activator.  
 
 Currently a single example package is available:
-* tb-activator-gft-base - a base image to demonstrate how to build future activators
+*  tb-activator-gft-base - a base image to demonstrate how to build future activators
 
 ## Resources:
 Running this package builds the following infrastructure resources in GCP:
