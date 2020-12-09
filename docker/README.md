@@ -23,3 +23,4 @@ vms_machine_type: Machine type of the virtual both machines, example 'n1-standar
 ### GCS (Google Cloud Storage)
 
 In this activator, we create one google storage buckets.
+landing-data-bucket: To be used for landing incoming data.
